@@ -1,0 +1,5 @@
+{
+  "build_type": "cpp",
+  "build_assets": ["worker"],
+  "generate_build_scripts": false
+}
